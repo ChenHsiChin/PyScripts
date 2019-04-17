@@ -11,4 +11,4 @@ py scripts that always be used.
 > make picture turn to low pixels, but keep it dimension.
 
 ### binary_gray
-> image binaryzation.
+> image binaryzation by three mode.
